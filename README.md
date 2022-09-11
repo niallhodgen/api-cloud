@@ -2,6 +2,8 @@
 
 # studentgradechecker-api-40040160
 
+### NOTE: Database credentials need added in 'application.properties' file of 'resources' folder.
+
 Student Grade Checker is a microservice application designed as part of the Queen's University Belfast MSc Software Development Cloud Computing module (CSC7071).
 
 The Java Spring Boot API function receives HTTP request containing form data (module marks, student details, etc.). It then processes this information, creating
